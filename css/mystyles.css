@@ -1,0 +1,41 @@
+p{
+    color:blacks;
+}
+
+.conan{
+    color: blueviolet;
+}
+a.adalink{
+    padding: 0px 10px;
+    margin: 0px 5px;
+    border-radius: 20px;
+    color: rgb(77, 148, 199);
+}
+
+a.adalink:hover{
+    background-color: rgb(115, 115, 151);
+    color: white;
+}
+
+div.adadivgray{
+    background-color: rgb(213, 230, 247);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(193, 222, 250);
+    width: 95%;
+    margin: 10px auto;
+}
+
+.adacrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.adacallmebg{
+    background-image: url(../assets/img/profile.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
