@@ -35,7 +35,7 @@ div.adadivgray{
 }
 
 .adacallmebg{
-    background-image: url(../assets/img/profile.jpg);
+    background-image: url(../assets/phone/07.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -53,3 +53,8 @@ div.adadivgray{
   .adaserif{
     font-family: "Noto Serif TC", serif;
   }
+
+  .adahl{
+    color:aquamarine;
+  }
+
