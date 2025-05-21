@@ -9,19 +9,19 @@ a.adalink{
     padding: 0px 10px;
     margin: 0px 5px;
     border-radius: 20px;
-    color: rgb(77, 148, 199);
+    color: #8080C0;
 }
 
 a.adalink:hover{
-    background-color: rgb(115, 115, 151);
+    background-color: #8080C0;
     color: white;
 }
 
 div.adadivgray{
-    background-color: rgb(213, 230, 247);
+    background-color: #D8D8EB;
     padding: 20px;
     border-radius: 10px;
-    border: 1px solid rgb(193, 222, 250);
+    border: 1px solid #C7C7E2;
     width: 95%;
     margin: 10px auto;
 }
@@ -41,7 +41,7 @@ div.adadivgray{
 }
 
 .list-group-item{
-    width: 200%;
+    width: 150%;
 }
 
  .inline-block {
@@ -58,3 +58,12 @@ div.adadivgray{
     color:aquamarine;
   }
 
+.group-item{
+    width: 138%;
+}
+
+.bgself{
+    background-color: #7373B9;
+    border-radius: 10px;
+    
+}

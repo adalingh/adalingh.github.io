@@ -385,6 +385,7 @@ button,
 [type=button],
 [type=reset],
 [type=submit] {
+  appearance: button;
   -webkit-appearance: button;
 }
 button:not(:disabled),
@@ -443,6 +444,7 @@ legend + * {
 
 [type=search] {
   outline-offset: -2px;
+  appearance: textfield;
   -webkit-appearance: textfield;
 }
 
@@ -464,6 +466,7 @@ legend + * {
 
 ::file-selector-button {
   font: inherit;
+  appearance: button;
   -webkit-appearance: button;
 }
 
@@ -8037,7 +8040,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: blue !important;
+  color: 	#7373B9 !important;
 }
 
 .text-secondary {
@@ -8128,7 +8131,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #356cdc !important;
+  background-color: #5A5AAD	 !important;
 }
 
 .bg-secondary {
