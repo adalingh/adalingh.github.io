@@ -50,7 +50,7 @@ div.adadivgray{
     margin-right: 20px;
   }
 
-  .adaserif{
+  .seriftext{
     font-family: "Noto Serif TC", serif;
   }
 
@@ -63,7 +63,12 @@ div.adadivgray{
 }
 
 .bgself{
+    color: white;
     background-color: #7373B9;
     border-radius: 10px;
-    
+    box-shadow: 10px 10px 10px 5px #0005;
+}
+
+.textself{
+    text-shadow:2px 3px 5px #0005;
 }
