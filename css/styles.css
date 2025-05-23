@@ -247,7 +247,7 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: #8080C0;
   text-decoration: underline;
 }
 a:hover {
@@ -8040,7 +8040,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: 	#7373B9 !important;
+  color: 	#9999CC !important;
 }
 
 .text-secondary {

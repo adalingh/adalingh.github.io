@@ -54,21 +54,33 @@ div.adadivgray{
     font-family: "Noto Serif TC", serif;
   }
 
-  .adahl{
-    color:aquamarine;
-  }
-
 .group-item{
     width: 138%;
 }
 
-.bgself{
+.namebg{
     color: white;
     background-color: #7373B9;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 5px #0005;
 }
 
-.textself{
+.nametext{
     text-shadow:5px 7px 2px #0005;
+}
+
+.self{
+    margin: 40px 0px 0px 0px;
+}
+
+.selftext{
+    margin: 15px 0px 0px 0px;
+}
+
+.listcolor{
+    background-color:#B8B8DC
+}
+
+.listcoco{
+    background-color:#D8D8EB
 }
