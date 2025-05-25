@@ -41,7 +41,7 @@ div.adadivgray{
 }
 
 .list-group-item{
-    width: 140%;
+    width: 145%;
 }
 
 .inline-block {
@@ -56,7 +56,7 @@ div.adadivgray{
   }
 
 .group-item{
-    width: 128%;
+    width: 133%;
 }
 
 .namebg{
@@ -132,4 +132,10 @@ div.adadivgray{
 
 .intphone{
     border-radius: 100px;
+}
+
+.titlebg{
+    background-color: #C7C7E2;
+    text-align:center;
+    width: 250px;
 }
