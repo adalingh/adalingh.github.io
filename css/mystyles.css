@@ -35,7 +35,7 @@ div.adadivgray{
 }
 
 .adacallmebg{
-    background-image: url(../assets/phone/07.jpg);
+    background-image: url(../assets/phone/13.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -44,14 +44,14 @@ div.adadivgray{
     width: 150%;
 }
 
- .inline-block {
+.inline-block {
     display: inline-block;
     vertical-align: top;
     margin-right: 20px;
     border-color: #C7C7E2;
   }
 
-  .seriftext{
+.seriftext{
     font-family: "Noto Serif TC", serif;
   }
 
@@ -84,4 +84,52 @@ div.adadivgray{
 
 .listcoco{
     background-color: #D8D8EB;
+}
+
+.drawingbg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.intbg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aboutmebg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ema{
+  color: #8080C0;
+  text-decoration: underline;
+  padding: 0px 2%;
+}
+.ema:hover {
+  color: white;
+  background-color: #7373B9;
+  border-radius: 50px;
+}
+
+.intsinger{
+    background-color: white;
+    width: 80px;
+    border-radius: 50px;
+    text-align:center;
+}
+
+.intvtuber{
+    background-color: white;
+    width: 130px;
+    border-radius: 50px;
+    text-transform: capitalize;
+    text-align:center;
+}
+
+.intphone{
+    border-radius: 100px;
 }
