@@ -1,10 +1,43 @@
-p{
-    color:blacks;
+/*個人資料*/
+.namebg{
+    color: white;
+    background-color: #7373B9;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 5px #0005;
 }
 
-.conan{
-    color: blueviolet;
+.nametext{
+    text-shadow:5px 7px 2px #0005;
 }
+
+.selftext{
+    margin: 15px 0px 0px 0px;
+}
+
+.self{
+    margin: 40px 0px 0px 0px;
+}
+
+.ema{
+  color: #8080C0;
+  text-decoration: underline;
+  padding: 0px 2%;
+}
+
+.ema:hover {
+  color: white;
+  background-color: #7373B9;
+  border-radius: 50px;
+}
+
+.aboutmebg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*學習經歷*/
 a.adalink{
     padding: 0px 10px;
     margin: 0px 5px;
@@ -26,56 +59,21 @@ div.adadivgray{
     margin: 10px auto;
 }
 
-.adacrop{
-    height: 200px;
-    overflow: hidden;
-    object-fit: cover;
-    margin: 10px 5px;
-    border-radius: 10px;
-}
 
-.adacallmebg{
-    background-image: url(../assets/phone/13.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+/*興趣愛好*/
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    border-color: #C7C7E2;
 }
 
 .list-group-item{
     width: 145%;
 }
 
-.inline-block {
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 20px;
-    border-color: #C7C7E2;
-  }
-
-.seriftext{
-    font-family: "Noto Serif TC", serif;
-  }
-
 .group-item{
     width: 133%;
-}
-
-.namebg{
-    color: white;
-    background-color: #7373B9;
-    border-radius: 10px;
-    box-shadow: 10px 10px 10px 5px #0005;
-}
-
-.nametext{
-    text-shadow:5px 7px 2px #0005;
-}
-
-.self{
-    margin: 40px 0px 0px 0px;
-}
-
-.selftext{
-    margin: 15px 0px 0px 0px;
 }
 
 .listcolor{
@@ -84,35 +82,6 @@ div.adadivgray{
 
 .listcoco{
     background-color: #D8D8EB;
-}
-
-.drawingbg{
-    background-color: #C7C7E2;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.intbg{
-    background-color: #C7C7E2;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.aboutmebg{
-    background-color: #C7C7E2;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.ema{
-  color: #8080C0;
-  text-decoration: underline;
-  padding: 0px 2%;
-}
-.ema:hover {
-  color: white;
-  background-color: #7373B9;
-  border-radius: 50px;
 }
 
 .intsinger{
@@ -132,6 +101,45 @@ div.adadivgray{
 
 .intphone{
     border-radius: 100px;
+}
+
+.intbg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*攝影作品*/
+
+
+
+/*繪畫作品*/
+.adacrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.drawingbg{
+    background-color: #C7C7E2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*即刻聯絡*/
+.adacallmebg{
+    background-image: url(../assets/phone/13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*通用*/
+.seriftext{
+    font-family: "Noto Serif TC", serif;
 }
 
 .titlebg{
