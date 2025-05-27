@@ -100,7 +100,9 @@ div.adadivgray{
 }
 
 .intphoto{
-    border-radius: 200px;
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
 }
 
 .intbg{
