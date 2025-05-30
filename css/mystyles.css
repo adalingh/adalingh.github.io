@@ -74,7 +74,7 @@ div.adadivgray{
 }
 
 .group-item{
-    width: 213%;
+    width: 206%;
 }
 
 .listcolor{
@@ -135,9 +135,13 @@ div.adadivgray{
 
 /*即刻聯絡*/
 .adacallmebg{
-    background-image: url(../assets/phone/13.jpg);
+    background-image: url(../assets/photo/13.png);
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.callmetext{
+    color: #C7C7E2;
 }
 
 
